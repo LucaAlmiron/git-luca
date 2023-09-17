@@ -1,0 +1,98 @@
+commit bc8f265f072476789ca115055e2c8b80fc47f055
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 13:16:30 2023 -0300
+
+    Agregando 2 parrafos
+
+commit e677bb978997c2c543b1dd02cc17e61f162691e2
+Merge: eb114ed 7dabd57
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 12:37:42 2023 -0300
+
+    Resolviendo conflicto en estaciones del anio y fecha de inicio
+
+commit eb114ed427c8d4c68ebcbc838f1b85f323212a53
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 12:22:18 2023 -0300
+
+    Agrengando estaciones del anio con fecha de inicio
+
+commit 7dabd577e7572dcb43dd12805499a598c7647a64
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 12:22:18 2023 -0300
+
+    Agregando las estaciones del anio
+
+commit abbca81ebf5cfe881229203d3ad66cf343ba91bd
+Merge: abe0213 94067d9
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 11:38:24 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 94067d93f096495d25c061d993e07237efa2c10c
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 11:32:55 2023 -0300
+
+    Agregando index.js al index.html
+
+commit abe021325b387df06a39530bc7012105e07d0a64
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 11:30:48 2023 -0300
+
+    Agregando style.css al index.html
+
+commit bac82213bb2e3d546f8d3d0640a9c6e7c2c8b270
+Merge: 7f0a9c7 1d4ebd7
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 11:21:46 2023 -0300
+
+    Merge branch 'js'
+
+commit 1d4ebd74e1525017cd8801a80fdd0bf5a015e0da
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 11:16:51 2023 -0300
+
+    Creando index.js
+
+commit 7f0a9c7861e8954402ccdb42cabbf4c1269c7053
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 11:11:40 2023 -0300
+
+    Creando style.css
+
+commit 9469575c0c867bdfac1b0de1b2e606842524965f
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 11:07:45 2023 -0300
+
+    Creando index.html
+
+commit 3828cf48c1396ec48da460d0643f297202e34fc8
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sun Sep 17 10:51:36 2023 -0300
+
+    Ignorando archivos .exe
+
+commit b3929ea537ee62451c9921b379ce0573060da5ed
+Author: LucaAlmiron <97846224+LucaAlmiron@users.noreply.github.com>
+Date:   Sat Sep 16 02:20:50 2023 -0300
+
+    Create LICENSE
+
+commit 7537ff4cfa71b0f99d9a9b35a669fea79e8767ff
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Sat Sep 16 01:52:53 2023 -0300
+
+    Agregando mas contenido al README
+
+commit 4a399f4313cae94ddb4dff09743130d9b20dc26c
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Fri Sep 15 14:25:41 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit e39d1b7365db29a916691bd60742a8b765b84897
+Author: Luca Almirón <lucaalmiron19@gmail.com>
+Date:   Fri Sep 15 14:20:20 2023 -0300
+
+    primer commit👌
